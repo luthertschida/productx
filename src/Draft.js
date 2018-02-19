@@ -43,15 +43,15 @@ const DraftPublic = {
   EditorBlock: DraftEditorBlock,
   EditorState,
 
-  CompositeDecorator: CompositeDraftDecorator,
-  Entity: DraftEntity,
-  EntityInstance: DraftEntityInstance,
+  // CompositeDecorator: CompositeDraftDecorator,
+  // Entity: DraftEntity,
+  // EntityInstance: DraftEntityInstance,
 
-  BlockMapBuilder,
-  CharacterMetadata,
-  ContentBlock,
-  ContentState,
-  SelectionState,
+  // BlockMapBuilder,
+  // CharacterMetadata,
+  // ContentBlock,
+  // ContentState,
+  // SelectionState,
 
   AtomicBlockUtils,
   KeyBindingUtil,
