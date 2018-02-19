@@ -37,7 +37,7 @@ const convertFromRawToDraftState = require('convertFromRawToDraftState');
 const generateRandomKey = require('generateRandomKey');
 const getDefaultKeyBinding = require('getDefaultKeyBinding');
 const getVisibleSelectionRect = require('getVisibleSelectionRect');
-
+// Some stuff
 const DraftPublic = {
   Editor: DraftEditor,
   EditorBlock: DraftEditorBlock,
